@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This project has been rebranded as ⚡tormFront.  This repo will be kept around until I see minimal traffic.
+
+Please find the new repo at <https://github.com/PavanDendi/StromFront>
+
 # How to Use This Repo
 
 ⚡tormFront is a notebook front end for the dbstress concurrency benchmarking tool.  It lets the user send multiple queries to a JDBC SQL endpoint without having to navigate too much code or manually edit config files.
